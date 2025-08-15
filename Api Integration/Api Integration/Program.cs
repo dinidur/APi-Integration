@@ -1,8 +1,14 @@
 ﻿using Api_Integration;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
+
+// Load configuration (appsettings.json)
+builder.Configuration
+    .AddJsonFile("appsettings.json", optional: false, reloadOnChange: true)
+    .AddEnvironmentVariables();
 
 // Add services
 builder.Services.AddControllers();
@@ -13,7 +19,7 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddSingleton<TokenService>();
 
 // Configure JWT Authentication
-builder.Services.AddAuthentication("Bearer")
+builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
     .AddJwtBearer(options =>
     {
         options.TokenValidationParameters = new TokenValidationParameters
@@ -44,9 +50,9 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
-// **Order matters**
-app.UseAuthentication();   // ✅ first check who you are
-app.UseAuthorization();    // ✅ then check what you can do
+// Order matters for middleware
+app.UseAuthentication();   // first: who you are
+app.UseAuthorization();    // then: what you can do
 
 app.MapControllers();
 
