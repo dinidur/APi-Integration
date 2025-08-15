@@ -16,6 +16,22 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "Api_Integration.Controllers.StudentController",
+    "Method": "GetStudentDtl",
+    "RelativePath": "api/Student/GetStudent",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Api_Integration.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",

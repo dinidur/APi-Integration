@@ -26,7 +26,7 @@ namespace SingerWebSiteIntegration.Models
             string conString = "Server=localhost;Port=3306;Database=studentmanage;User=root;Password=;";
 
             var mySqlConnection = new MySqlConnection(conString);
-            mySqlConnection.Open();
+           
             return mySqlConnection;
         }
         catch (Exception ex)
