@@ -1,10 +1,12 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using MySql.Data.MySqlClient;
 using MySqlX.XDevAPI.Common;
 using SingerWebSiteIntegration.Models;
 
 namespace Api_Integration.Controllers
 {
+    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class StudentController : Controller

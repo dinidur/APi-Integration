@@ -1,0 +1,43 @@
+D:\WorkShop\Horizen\Api Integration\Api Integration\Api Integration\obj\Release\net9.0\PubTmp\Out\Api Integration.exe
+D:\WorkShop\Horizen\Api Integration\Api Integration\Api Integration\obj\Release\net9.0\PubTmp\Out\appsettings.Development.json
+D:\WorkShop\Horizen\Api Integration\Api Integration\Api Integration\obj\Release\net9.0\PubTmp\Out\appsettings.json
+D:\WorkShop\Horizen\Api Integration\Api Integration\Api Integration\obj\Release\net9.0\PubTmp\Out\Api Integration.dll
+D:\WorkShop\Horizen\Api Integration\Api Integration\Api Integration\obj\Release\net9.0\PubTmp\Out\Api Integration.deps.json
+D:\WorkShop\Horizen\Api Integration\Api Integration\Api Integration\obj\Release\net9.0\PubTmp\Out\Api Integration.runtimeconfig.json
+D:\WorkShop\Horizen\Api Integration\Api Integration\Api Integration\obj\Release\net9.0\PubTmp\Out\Api Integration.pdb
+D:\WorkShop\Horizen\Api Integration\Api Integration\Api Integration\obj\Release\net9.0\PubTmp\Out\BouncyCastle.Cryptography.dll
+D:\WorkShop\Horizen\Api Integration\Api Integration\Api Integration\obj\Release\net9.0\PubTmp\Out\Google.Protobuf.dll
+D:\WorkShop\Horizen\Api Integration\Api Integration\Api Integration\obj\Release\net9.0\PubTmp\Out\K4os.Compression.LZ4.dll
+D:\WorkShop\Horizen\Api Integration\Api Integration\Api Integration\obj\Release\net9.0\PubTmp\Out\K4os.Compression.LZ4.Streams.dll
+D:\WorkShop\Horizen\Api Integration\Api Integration\Api Integration\obj\Release\net9.0\PubTmp\Out\K4os.Hash.xxHash.dll
+D:\WorkShop\Horizen\Api Integration\Api Integration\Api Integration\obj\Release\net9.0\PubTmp\Out\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\WorkShop\Horizen\Api Integration\Api Integration\Api Integration\obj\Release\net9.0\PubTmp\Out\Microsoft.IdentityModel.Abstractions.dll
+D:\WorkShop\Horizen\Api Integration\Api Integration\Api Integration\obj\Release\net9.0\PubTmp\Out\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\WorkShop\Horizen\Api Integration\Api Integration\Api Integration\obj\Release\net9.0\PubTmp\Out\Microsoft.IdentityModel.Logging.dll
+D:\WorkShop\Horizen\Api Integration\Api Integration\Api Integration\obj\Release\net9.0\PubTmp\Out\Microsoft.IdentityModel.Protocols.dll
+D:\WorkShop\Horizen\Api Integration\Api Integration\Api Integration\obj\Release\net9.0\PubTmp\Out\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\WorkShop\Horizen\Api Integration\Api Integration\Api Integration\obj\Release\net9.0\PubTmp\Out\Microsoft.IdentityModel.Tokens.dll
+D:\WorkShop\Horizen\Api Integration\Api Integration\Api Integration\obj\Release\net9.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\WorkShop\Horizen\Api Integration\Api Integration\Api Integration\obj\Release\net9.0\PubTmp\Out\MySql.Data.dll
+D:\WorkShop\Horizen\Api Integration\Api Integration\Api Integration\obj\Release\net9.0\PubTmp\Out\Oracle.ManagedDataAccess.dll
+D:\WorkShop\Horizen\Api Integration\Api Integration\Api Integration\obj\Release\net9.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\WorkShop\Horizen\Api Integration\Api Integration\Api Integration\obj\Release\net9.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\WorkShop\Horizen\Api Integration\Api Integration\Api Integration\obj\Release\net9.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\WorkShop\Horizen\Api Integration\Api Integration\Api Integration\obj\Release\net9.0\PubTmp\Out\System.Configuration.ConfigurationManager.dll
+D:\WorkShop\Horizen\Api Integration\Api Integration\Api Integration\obj\Release\net9.0\PubTmp\Out\System.Diagnostics.PerformanceCounter.dll
+D:\WorkShop\Horizen\Api Integration\Api Integration\Api Integration\obj\Release\net9.0\PubTmp\Out\System.DirectoryServices.Protocols.dll
+D:\WorkShop\Horizen\Api Integration\Api Integration\Api Integration\obj\Release\net9.0\PubTmp\Out\System.IdentityModel.Tokens.Jwt.dll
+D:\WorkShop\Horizen\Api Integration\Api Integration\Api Integration\obj\Release\net9.0\PubTmp\Out\System.Security.Cryptography.ProtectedData.dll
+D:\WorkShop\Horizen\Api Integration\Api Integration\Api Integration\obj\Release\net9.0\PubTmp\Out\System.Security.Permissions.dll
+D:\WorkShop\Horizen\Api Integration\Api Integration\Api Integration\obj\Release\net9.0\PubTmp\Out\System.Windows.Extensions.dll
+D:\WorkShop\Horizen\Api Integration\Api Integration\Api Integration\obj\Release\net9.0\PubTmp\Out\ZstdSharp.dll
+D:\WorkShop\Horizen\Api Integration\Api Integration\Api Integration\obj\Release\net9.0\PubTmp\Out\runtimes\win-x64\native\comerr64.dll
+D:\WorkShop\Horizen\Api Integration\Api Integration\Api Integration\obj\Release\net9.0\PubTmp\Out\runtimes\win-x64\native\gssapi64.dll
+D:\WorkShop\Horizen\Api Integration\Api Integration\Api Integration\obj\Release\net9.0\PubTmp\Out\runtimes\win-x64\native\k5sprt64.dll
+D:\WorkShop\Horizen\Api Integration\Api Integration\Api Integration\obj\Release\net9.0\PubTmp\Out\runtimes\win-x64\native\krb5_64.dll
+D:\WorkShop\Horizen\Api Integration\Api Integration\Api Integration\obj\Release\net9.0\PubTmp\Out\runtimes\win-x64\native\krbcc64.dll
+D:\WorkShop\Horizen\Api Integration\Api Integration\Api Integration\obj\Release\net9.0\PubTmp\Out\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\WorkShop\Horizen\Api Integration\Api Integration\Api Integration\obj\Release\net9.0\PubTmp\Out\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\WorkShop\Horizen\Api Integration\Api Integration\Api Integration\obj\Release\net9.0\PubTmp\Out\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\WorkShop\Horizen\Api Integration\Api Integration\Api Integration\obj\Release\net9.0\PubTmp\Out\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\WorkShop\Horizen\Api Integration\Api Integration\Api Integration\obj\Release\net9.0\PubTmp\Out\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
